@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "560684037411",
+    "firebase_url": "https://roommate-f37d4-default-rtdb.firebaseio.com",
+    "project_id": "roommate-f37d4",
+    "storage_bucket": "roommate-f37d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560684037411:android:71fdd2ac8349299db28896",
+        "android_client_info": {
+          "package_name": "ebubekirsit.roommate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBx5KVUOrv1diZf_q9AqAKq8w3XS_f_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
